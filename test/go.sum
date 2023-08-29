@@ -1,0 +1,4 @@
+github.com/Shaheer25/mypackage v0.0.0-20230725103047-d6c921c433b6 h1:lLID66gj2S9idFwwIAvNrXkVUFulp9CdbR2R15blloM=
+github.com/Shaheer25/mypackage v0.0.0-20230725103047-d6c921c433b6/go.mod h1:AJnFr9320OSDGt3jm0DyQRd1x5xspadxWp3B8cUtAqo=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

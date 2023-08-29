@@ -1,0 +1,16 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Sample description",
+        "title": "Documenting API",
+        "contact": {
+            "name": "Shaheer",
+            "url": "https://github.com/Shaheer25",
+            "email": "gmail@gmail.com"
+        },
+        "version": "1"
+    },
+    "host": "localhost:8080",
+    "basePath": "/api/v1",
+    "paths": {}
+}

@@ -1,0 +1,12 @@
+basePath: /api/v1
+host: localhost:8080
+info:
+  contact:
+    email: gmail@gmail.com
+    name: Shaheer
+    url: https://github.com/Shaheer25
+  description: Sample description
+  title: Documenting API
+  version: "1"
+paths: {}
+swagger: "2.0"

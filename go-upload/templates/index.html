@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {{ if .image }}
+        <img src = "{{ .image }}"/>
+    {{ end }}
+    <h2>Upload Files Using Go/Gin</h2>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <input type ="file" name="image">
+            <input type="submit">
+       
+    {{ if .error }}
+    <p> {{ .error }} </p>
+    {{ end }} 
+</form>
+</html>
